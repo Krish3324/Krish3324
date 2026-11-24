@@ -1,28 +1,128 @@
-# 💫 About Me:
-👋 Hi, I'm Krish<br><br>🎓 MCA Student at SCET<br><br>💡 Interested in software development, application design, and problem-solving<br>🛠️ Actively working on academic and personal projects<br>🌱 Learning new technologies to enhance my development skills<br>🤝 Looking forward to collaborating on innovative projects
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:111827&height=170&section=header&text=Krish%20Patel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20OOP%20%C2%B7%20DBMS&descAlignY=60&descSize=18" alt="Krish Patel banner" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kpatel.rpatel.37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish____3324) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/patelkrishh34) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@krish____3324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelkrishh34@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=MCA+candidate+and+software+engineer;I+build+REST+APIs+and+real-time+apps;Web+%C2%B7+Android+%C2%B7+Flutter+%C2%B7+Spring+Boot;Seeking+a+software+engineering+internship)](https://patelkrish.website)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krish3324&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Krish3324&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish3324&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelkrish3324/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-patelkrish.website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://patelkrish.website)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelkrishh34@gmail.com)
+![Open to work](https://img.shields.io/badge/Open%20to-Internships-2EA44F?style=for-the-badge)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Krish3324&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Krish3324&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Krish3324) 
+## 👨‍💻 About me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I turn requirements into dependable software. My work covers **full-stack web, native and cross-platform mobile, and database-driven back ends**, built on object-oriented design, SOLID principles, and relational modeling rather than quick fixes.
+
+- 🎓 MCA at Sarvajanik College of Engineering and Technology (2025–2027), BCA before that
+- 🔧 Comfortable across the stack: React → Node/Spring Boot → MySQL/MongoDB → Android/Flutter
+- 🧠 Strong on fundamentals: OOP, DBMS, algorithms, and clean API design
+- 📍 Surat, India · Open to internships and remote-friendly teams
+
+## 🧰 Tech stack
+
+<div align="center">
+
+| | |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Data** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) |
+
+</div>
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 Milestone
+Project and task management across web and mobile, with real-time team chat.
+
+`React` `Node.js` `Express` `MongoDB` `Flutter` `Firebase`
+
+- REST APIs for projects, tasks, and team members
+- Responsive web app plus cross-platform mobile app
+- Firebase-powered real-time messaging
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 HomeEase
+Home-services booking platform for workers, chefs, maids, and more.
+
+`Java` `Spring Boot` `MySQL` `REST`
+
+- Appointment scheduling and request tracking
+- Live worker tracking and real-time notifications
+- Relational model for users, services, and bookings
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Management System
+Layered Java application where OOP design meets relational database engineering.
+
+`Java` `JDBC` `MySQL` `OOP` `DBMS`
+
+- Abstraction, polymorphism, SOLID, DAO, Singleton, Factory
+- 3NF schema with integrity constraints
+- Prepared statements and ACID transactions
+- Indexes, views, stored procedures, triggers
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 CLAPO
+Android app for real-time communication and location sharing.
+
+`Android` `Java` `Firebase` `Google Maps API`
+
+- Firebase authentication and real-time data
+- Instant chat between users
+- Live location tracking and map visualization
+
+</td>
+</tr>
+</table>
+
+<!-- Link each project title to its repo, e.g. ### 📋 [Milestone](https://github.com/Krish3324/<repo>) -->
+
+## 🧭 How I build
+
+| Principle | In practice |
+|---|---|
+| **Design before code** | ER models, class hierarchies, and API contracts first |
+| **Clean and modular** | SOLID principles and well-known patterns over clever shortcuts |
+| **Data integrity** | Normalization, constraints, and transactions |
+| **Secure by default** | Prepared statements, authentication, and session handling |
+| **Maintainable** | Readable code, meaningful commits, documented READMEs |
+
+## 📊 GitHub activity
+
+<div align="center">
+
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish3324&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish3324&layout=compact&hide_border=true)
+
+</div>
+
+## 🤝 Let's connect
+
+I'm looking for a **software engineering internship** where I can ship real features and learn from experienced engineers. If you're hiring, building something interesting, or just want to talk about Java, databases, or mobile apps, reach out.
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/patelkrish3324/) · [Portfolio](https://patelkrish.website) · [Email](mailto:patelkrishh34@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0A66C2&height=90&section=footer" alt="" />
+
+</div>
