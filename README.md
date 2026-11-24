@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:111827&height=170&section=header&text=Krish%20Patel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20OOP%20%C2%B7%20DBMS&descAlignY=60&descSize=18" alt="Krish Patel banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:111827&height=170&section=header&text=Krish%20Patel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20&descAlignY=60&descSize=18" alt="Krish Patel banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=MCA+candidate+and+software+engineer;I+build+REST+APIs+and+real-time+apps;Web+%C2%B7+Android+%C2%B7+Flutter+%C2%B7+Spring+Boot;Seeking+a+software+engineering+internship)](https://patelkrish.website)
 
