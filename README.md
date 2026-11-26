@@ -1,28 +1,161 @@
-# 💫 About Me:
-👋 Hi, I'm Krish<br><br>🎓 MCA Student at SCET<br><br>💡 Interested in software development, application design, and problem-solving<br>🛠️ Actively working on academic and personal projects<br>🌱 Learning new technologies to enhance my development skills<br>🤝 Looking forward to collaborating on innovative projects
+<!-- ============================== HEADER ============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Krish%20Patel&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=MCA%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+clean+and+useful+software;MCA+%40+Sarvajanik+College+of+Engineering+%26+Technology;Learning+something+new+every+day;Open+to+internships+%26+collaborations" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kpatel.rpatel.37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish____3324) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/patelkrishh34) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@krish____3324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelkrishh34@gmail.com) 
+<p align="center">
+  <a href="https://patelkrish.website"><img src="https://img.shields.io/badge/🌐%20Portfolio-patelkrish.website-8B5CF6?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="mailto:patelkrishh34@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-Get%20in%20Touch-EC4899?style=for-the-badge&labelColor=0D1117" /></a>
+  <img src="https://img.shields.io/badge/📍%20Surat-Gujarat%2C%20India-06B6D4?style=for-the-badge&labelColor=0D1117" />
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krish3324&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Krish3324&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish3324&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Krish3324&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/BCA-Completed-22C55E?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MCA-Pursuing-3B82F6?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-F59E0B?style=flat-square&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=Krish3324&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Krish3324&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Krish3324) 
+## 👨‍💻 &nbsp;About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```js
+const krish = {
+  name:        "Krish Patel",
+  role:        "MCA Student & Software Developer",
+  education:   ["BCA (Completed)", "MCA @ SCET, Surat (Pursuing)"],
+  location:    "Surat, Gujarat, India 🇮🇳",
+  interests:   ["Software Development", "Application Design", "Problem Solving"],
+  currently:   "Building academic & personal projects",
+  learning:    ["DSA", "Full-Stack Development", "Generative AI", "Cloud"],
+  lookingFor:  "Internships, open-source work & innovative collaborations",
+  funFact:     "I also edit photos & videos, and love gaming 🎮"
+};
+```
+
+---
+
+## 🛠️ &nbsp;Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,python,js&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,mysql,git,github,vscode&theme=dark" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td>Java · C · C++ · C# · Python · JavaScript</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Web</b></td>
+    <td>HTML · CSS · JavaScript · Chrome Extensions</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Backend & Data</b></td>
+    <td>MySQL · Firebase</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td>Git · GitHub · VS Code</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Creative</b></td>
+    <td>Adobe Photoshop · Lightroom · After Effects</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📥 YTGrab</h3>
+      <p>A Chrome extension to download YouTube video and audio quickly and easily.</p>
+      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></p>
+      <a href="https://github.com/Krish3324/YTGrab">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>☕ CLAPO</h3>
+      <p>A Java-based project built as part of my application development journey.</p>
+      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></p>
+      <a href="https://github.com/Krish3324/CLAPO">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏠 HomeEase</h3>
+      <p>A web project focused on clean layout and a simple, user-friendly experience.</p>
+      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></p>
+      <a href="https://github.com/Krish3324/HomeEase">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📰 &nbsp;Tracking the IT Landscape
+
+| Domain | What I follow |
+|:------:|---------------|
+| 🤖 **AI & GenAI** | LLMs, AI assistants, prompt engineering, AI in developer workflows |
+| ☁️ **Cloud & DevOps** | AWS / Azure / GCP, containers, CI/CD |
+| 🔐 **Cybersecurity** | Secure coding, common vulnerabilities, data privacy |
+| 🌐 **Web & Apps** | New frameworks, performance, full-stack and cross-platform trends |
+| 🧑‍💻 **Open Source** | Trending repos, developer tools, community projects |
+| 📈 **Industry** | In-demand skills and the Indian IT & startup ecosystem |
+
+> 💡 *I stay updated through tech blogs, GitHub Trending, developer communities, newsletters, and hands-on experiments.*
+
+---
+
+## 📊 &nbsp;GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Krish3324&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish3324&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Krish3324&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish3324&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=EC4899&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🎯 &nbsp;Roadmap
+
+- [x] Complete BCA
+- [ ] Complete MCA with strong, practical projects
+- [ ] Master DSA and system design fundamentals
+- [ ] Contribute to open-source
+- [ ] Start a career as a Software Developer
+
+---
+
+## 🌐 &nbsp;Let's Connect
+
+<p align="center">
+  <a href="https://patelkrish.website"><img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:patelkrishh34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/krish____3324"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@krish____3324"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://facebook.com/kpatel.rpatel.37"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://pinterest.com/patelkrishh34"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>“Make it work, make it right, make it fast.”</i> — Kent Beck</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=120&section=footer" width="100%" />
+</p>
